@@ -40,7 +40,7 @@ ext {
     targetSdkVersion = 32
     minSdkVersion = 26
 
-    applicationId = "com.tyron.code"
+    applicationId = "com.tyron.codes"
     versionCode = 20
     versionName = "0.2.9 ALPHA"
 }
